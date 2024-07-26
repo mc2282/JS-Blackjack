@@ -1,5 +1,5 @@
 {
-  "name": "blackjack-vite",
+  "name": "JS-Blackjack",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.3.4"
+    "vite": "^5.3.5"
   },
   "dependencies": {
     "underscore": "^1.13.7"
